@@ -1,0 +1,24 @@
+{
+  "name": "pseudo-koin-bbs",
+  "version": "1.0.0",
+  "description": "Pseudo KoIn Builtin Board System",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refracta/pseudo-koin-bbs.git"
+  },
+  "author": "refracta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refracta/pseudo-koin-bbs/issues"
+  },
+  "homepage": "https://github.com/refracta/pseudo-koin-bbs#readme",
+  "dependencies": {
+    "blessed": "0.1.81"
+  },
+  "devDependencies": {}
+}
