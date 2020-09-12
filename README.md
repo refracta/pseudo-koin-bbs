@@ -44,6 +44,13 @@ npm install
 npm start
 ```
 
+## 조작
+```
+Tab: 요소를 이동
+Enter: 해당 요소에 진입
+ESC: Input에서 빠져나오거나 프로그램을 종료
+```
+
 ## 실행 화면
 > ## 로그인
 > ![login](./capture/login.png)
