@@ -39,6 +39,7 @@
 ## 설치 방법
 ```
 git clone https://github.com/refracta/pseudo-koin-bbs
+cd pseudo-koin-bbs
 npm install
 npm start
 ```
